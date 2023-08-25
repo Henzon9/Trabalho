@@ -1,0 +1,8 @@
+C:\Users\henzon.gamelo\source\repos\Atividade_Aguia\Atividade_Aguia\bin\Debug\Atividade_Aguia.exe.config
+C:\Users\henzon.gamelo\source\repos\Atividade_Aguia\Atividade_Aguia\bin\Debug\Atividade_Aguia.exe
+C:\Users\henzon.gamelo\source\repos\Atividade_Aguia\Atividade_Aguia\bin\Debug\Atividade_Aguia.pdb
+C:\Users\henzon.gamelo\source\repos\Atividade_Aguia\Atividade_Aguia\obj\Debug\Atividade_Aguia.csproj.AssemblyReference.cache
+C:\Users\henzon.gamelo\source\repos\Atividade_Aguia\Atividade_Aguia\obj\Debug\Atividade_Aguia.csproj.SuggestedBindingRedirects.cache
+C:\Users\henzon.gamelo\source\repos\Atividade_Aguia\Atividade_Aguia\obj\Debug\Atividade_Aguia.csproj.CoreCompileInputs.cache
+C:\Users\henzon.gamelo\source\repos\Atividade_Aguia\Atividade_Aguia\obj\Debug\Atividade_Aguia.exe
+C:\Users\henzon.gamelo\source\repos\Atividade_Aguia\Atividade_Aguia\obj\Debug\Atividade_Aguia.pdb

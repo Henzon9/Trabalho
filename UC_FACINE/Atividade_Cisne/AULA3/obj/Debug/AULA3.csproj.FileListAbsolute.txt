@@ -1,0 +1,8 @@
+C:\Users\henzon.gamelo\source\repos\AULA3\AULA3\bin\Debug\AULA3.exe.config
+C:\Users\henzon.gamelo\source\repos\AULA3\AULA3\bin\Debug\AULA3.exe
+C:\Users\henzon.gamelo\source\repos\AULA3\AULA3\bin\Debug\AULA3.pdb
+C:\Users\henzon.gamelo\source\repos\AULA3\AULA3\obj\Debug\AULA3.csproj.AssemblyReference.cache
+C:\Users\henzon.gamelo\source\repos\AULA3\AULA3\obj\Debug\AULA3.csproj.SuggestedBindingRedirects.cache
+C:\Users\henzon.gamelo\source\repos\AULA3\AULA3\obj\Debug\AULA3.csproj.CoreCompileInputs.cache
+C:\Users\henzon.gamelo\source\repos\AULA3\AULA3\obj\Debug\AULA3.exe
+C:\Users\henzon.gamelo\source\repos\AULA3\AULA3\obj\Debug\AULA3.pdb

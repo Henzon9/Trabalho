@@ -1,0 +1,8 @@
+C:\Users\henzon.gamelo\source\repos\aula4\aula4\bin\Debug\aula4.exe.config
+C:\Users\henzon.gamelo\source\repos\aula4\aula4\bin\Debug\aula4.exe
+C:\Users\henzon.gamelo\source\repos\aula4\aula4\bin\Debug\aula4.pdb
+C:\Users\henzon.gamelo\source\repos\aula4\aula4\obj\Debug\aula4.csproj.AssemblyReference.cache
+C:\Users\henzon.gamelo\source\repos\aula4\aula4\obj\Debug\aula4.csproj.SuggestedBindingRedirects.cache
+C:\Users\henzon.gamelo\source\repos\aula4\aula4\obj\Debug\aula4.csproj.CoreCompileInputs.cache
+C:\Users\henzon.gamelo\source\repos\aula4\aula4\obj\Debug\aula4.exe
+C:\Users\henzon.gamelo\source\repos\aula4\aula4\obj\Debug\aula4.pdb

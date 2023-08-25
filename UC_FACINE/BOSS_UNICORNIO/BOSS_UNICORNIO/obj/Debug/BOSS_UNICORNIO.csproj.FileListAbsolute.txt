@@ -1,0 +1,8 @@
+C:\Users\henzon.gamelo\source\repos\BOSS_UNICORNIO\BOSS_UNICORNIO\bin\Debug\BOSS_UNICORNIO.exe.config
+C:\Users\henzon.gamelo\source\repos\BOSS_UNICORNIO\BOSS_UNICORNIO\bin\Debug\BOSS_UNICORNIO.exe
+C:\Users\henzon.gamelo\source\repos\BOSS_UNICORNIO\BOSS_UNICORNIO\bin\Debug\BOSS_UNICORNIO.pdb
+C:\Users\henzon.gamelo\source\repos\BOSS_UNICORNIO\BOSS_UNICORNIO\obj\Debug\BOSS_UNICORNIO.csproj.AssemblyReference.cache
+C:\Users\henzon.gamelo\source\repos\BOSS_UNICORNIO\BOSS_UNICORNIO\obj\Debug\BOSS_UNICORNIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\henzon.gamelo\source\repos\BOSS_UNICORNIO\BOSS_UNICORNIO\obj\Debug\BOSS_UNICORNIO.csproj.CoreCompileInputs.cache
+C:\Users\henzon.gamelo\source\repos\BOSS_UNICORNIO\BOSS_UNICORNIO\obj\Debug\BOSS_UNICORNIO.exe
+C:\Users\henzon.gamelo\source\repos\BOSS_UNICORNIO\BOSS_UNICORNIO\obj\Debug\BOSS_UNICORNIO.pdb
